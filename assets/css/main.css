@@ -453,7 +453,7 @@ section {
   }
 
   .navbar .dropdown .dropdown:hover>ul {
-    right: -100%;
+    left: -100%;
   }
 }
 
