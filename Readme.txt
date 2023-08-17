@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Welcome to Radisson Limited!
 
-Template Name: Logis
-Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Feel free to browse and download our website for learning purposes.
